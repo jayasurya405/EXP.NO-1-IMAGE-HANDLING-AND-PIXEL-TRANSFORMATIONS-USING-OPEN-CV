@@ -3,7 +3,6 @@
 **Name:** JAYA SURYA R  
 **Register Number:** 212225230114 
 
-
 **Experiment:** Image Handling and Pixel Transformations Using OpenCV
 
 ---
